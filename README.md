@@ -1,4 +1,5 @@
-# Online shoppers intention (Traffic is getting converted into Revenue generation or not)
+# Online shoppers intention to know weather
+# Web Traffic is getting converted into Revenue generation or not
 
 ## problem statement
 
