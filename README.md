@@ -49,6 +49,10 @@ The dataset consists of feature vectors belonging to 12,330 sessions.The dataset
 
 | *------*  |
 |:-------------------------:|
+![](https://github.com/Arvindhh931/Online-shoppers-intention/blob/main/Visualizations/10.png)
+
+| *------*  |
+|:-------------------------:|
 ![](https://github.com/Arvindhh931/Online-shoppers-intention/blob/main/Visualizations/11.png)
 
 | *------*  |
