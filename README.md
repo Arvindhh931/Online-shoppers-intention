@@ -25,15 +25,14 @@ The dataset consists of feature vectors belonging to 12,330 sessions.The dataset
 
 ## Exploratory Data Analysis
 
-| *------*  |
+| *Distribution of categories across Dataset*  |
 |:-------------------------:|
 ![](https://github.com/Arvindhh931/Online-shoppers-intention/blob/main/Visualizations/1.png)
 
-| *------*  |
+| *Distribution of categories across Dataset*  |
 |:-------------------------:|
 ![](https://github.com/Arvindhh931/Online-shoppers-intention/blob/main/Visualizations/2.png)
 
-| *------*           |  *----*
 :-------------------------:|:-------------------------:
 ![](https://github.com/Arvindhh931/Online-shoppers-intention/blob/main/Visualizations/3.png)  |  ![](https://github.com/Arvindhh931/Online-shoppers-intention/blob/main/Visualizations/4.png) 
 
