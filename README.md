@@ -72,6 +72,8 @@ The dataset consists of feature vectors belonging to 12,330 sessions.The dataset
 
 ![](https://github.com/Arvindhh931/Online-shoppers-intention/blob/main/Visualizations/18.png)
 
+## Exploratory analysis of clusters
+
 | *Distribution of categories across clusters*  |
 |:-------------------------:|
 ![](https://github.com/Arvindhh931/Online-shoppers-intention/blob/main/Visualizations/19.png)
