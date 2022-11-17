@@ -23,7 +23,7 @@ The dataset consists of feature vectors belonging to 12,330 sessions.The dataset
 - The "Special Day" feature indicates the closeness of the site visiting time to a specific special day (e.g. Mother’s Day, Valentine's Day) in which the sessions are more likely to be finalized with transaction. The value of this attribute is determined by considering the dynamics of e-commerce such as the duration between the order date and delivery date. 
 
 
-## Exploratory Data Analysis
+## Exploratory Data Analysis (visulizations)
 
 | *Distribution of categories across Dataset*  |
 |:-------------------------:|
