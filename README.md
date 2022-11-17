@@ -27,60 +27,60 @@ The dataset consists of feature vectors belonging to 12,330 sessions.The dataset
 
 | *------*  |
 |:-------------------------:|
-![](https://github.com/Arvindhh931/Online-shoppers-intention/blob/main/visualizations/1.png)
+![](https://github.com/Arvindhh931/Online-shoppers-intention/blob/main/Visualizations/1.png)
 
 | *------*  |
 |:-------------------------:|
-![](https://github.com/Arvindhh931/Online-shoppers-intention/blob/main/visualizations/2.png)
+![](https://github.com/Arvindhh931/Online-shoppers-intention/blob/main/Visualizations/2.png)
 
 | *------*           |  *----*
 :-------------------------:|:-------------------------:
-![](https://github.com/Arvindhh931/Online-shoppers-intention/blob/main/visualizations/3.png)  |  ![](https://github.com/Arvindhh931/Online-shoppers-intention/blob/main/visualizations/4.png) 
+![](https://github.com/Arvindhh931/Online-shoppers-intention/blob/main/Visualizations/3.png)  |  ![](https://github.com/Arvindhh931/Online-shoppers-intention/blob/main/Visualizations/4.png) 
 
 
 | *-----*           |  *-----*
 :-------------------------:|:-------------------------:
-![](https://github.com/Arvindhh931/Online-shoppers-intention/blob/main/visualizations/kmeans.png)  |  ![](https://github.com/Arvindhh931/Online-shoppers-intention/blob/main/visualizations/Agglomerative.png)
+![](https://github.com/Arvindhh931/Online-shoppers-intention/blob/main/visualizations/kmeans.png)  |  ![](https://github.com/Arvindhh931/Online-shoppers-intention/blob/main/Visualizations/Agglomerative.png)
 
 | *-----*  |
 
 | *------*  |
 |:-------------------------:|
-![](https://github.com/Arvindhh931/Online-shoppers-intention/blob/main/visualizations/Dendogram.png)
+![](https://github.com/Arvindhh931/Online-shoppers-intention/blob/main/Visualizations/Dendogram.png)
 
 | *-----*  |
 
 | *------*  |
 |:-------------------------:|
-![](https://github.com/Arvindhh931/Online-shoppers-intention/blob/main/visualizations/11.png)
+![](https://github.com/Arvindhh931/Online-shoppers-intention/blob/main/Visualizations/11.png)
 
 | *------*  |
 |:-------------------------:|
-![](https://github.com/Arvindhh931/Online-shoppers-intention/blob/main/visualizations/13.png)
+![](https://github.com/Arvindhh931/Online-shoppers-intention/blob/main/Visualizations/13.png)
 
 | *------*  |
 |:-------------------------:|
-![](https://github.com/Arvindhh931/Online-shoppers-intention/blob/main/visualizations/12.png)
+![](https://github.com/Arvindhh931/Online-shoppers-intention/blob/main/Visualizations/12.png)
 
 | *------*  |
 |:-------------------------:|
-![](https://github.com/Arvindhh931/Online-shoppers-intention/blob/main/visualizations/14.png)
+![](https://github.com/Arvindhh931/Online-shoppers-intention/blob/main/Visualizations/14.png)
 
 | *------*  |
 |:-------------------------:|
-![](https://github.com/Arvindhh931/Online-shoppers-intention/blob/main/visualizations/15.png)
+![](https://github.com/Arvindhh931/Online-shoppers-intention/blob/main/Visualizations/15.png)
 
 | *------*  |
 |:-------------------------:|
-![](https://github.com/Arvindhh931/Online-shoppers-intention/blob/main/visualizations/16.png)
+![](https://github.com/Arvindhh931/Online-shoppers-intention/blob/main/Visualizations/16.png)
 
 | *------*  |
 |:-------------------------:|
-![](https://github.com/Arvindhh931/Online-shoppers-intention/blob/main/visualizations/17.png)
+![](https://github.com/Arvindhh931/Online-shoppers-intention/blob/main/Visualizations/17.png)
 
 | *------*  |
 |:-------------------------:|
-![](https://github.com/Arvindhh931/Online-shoppers-intention/blob/main/visualizations/18.png)
+![](https://github.com/Arvindhh931/Online-shoppers-intention/blob/main/Visualizations/18.png)
 
 
 ## Missing value Imputation
