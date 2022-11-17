@@ -54,6 +54,8 @@ The dataset consists of feature vectors belonging to 12,330 sessions.The dataset
 |:-------------------------:|
 ![](https://github.com/Arvindhh931/Online-shoppers-intention/blob/main/Visualizations/pair_plot_Agg.png)
 
+## Analysis of K-Means clustering
+
 ![](https://github.com/Arvindhh931/Online-shoppers-intention/blob/main/Visualizations/11.png)
 
 ![](https://github.com/Arvindhh931/Online-shoppers-intention/blob/main/Visualizations/13.png)
