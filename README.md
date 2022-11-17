@@ -1,4 +1,4 @@
-# Online-shoppers-intention
+# Online shoppers intention (Traffic is getting converted into Revenue generation or not)
 
 ## problem statement
 
