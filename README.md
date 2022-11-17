@@ -25,29 +25,64 @@ The dataset consists of feature vectors belonging to 12,330 sessions.The dataset
 
 ## Exploratory Data Analysis
 
+| *------*  |
+|:-------------------------:|
+![](https://github.com/Arvindhh931/Online-shoppers-intention/blob/main/visualizations/1.png)
+
+| *------*  |
+|:-------------------------:|
+![](https://github.com/Arvindhh931/Online-shoppers-intention/blob/main/visualizations/2.png)
+
 | *------*           |  *----*
 :-------------------------:|:-------------------------:
-![](https://github.com/Arvindhh931/Healthcare_Analyitics/blob/main/Visualizations/2.png)  |  ![](https://github.com/Arvindhh931/Healthcare_Analyitics/blob/main/Visualizations/3.png) 
+![](https://github.com/Arvindhh931/Online-shoppers-intention/blob/main/visualizations/3.png)  |  ![](https://github.com/Arvindhh931/Online-shoppers-intention/blob/main/visualizations/4.png) 
 
-| *---*           |  *----*
+
+| *-----*           |  *-----*
 :-------------------------:|:-------------------------:
-![](https://github.com/Arvindhh931/Healthcare_Analyitics/blob/main/Visualizations/2.png)  |  ![](https://github.com/Arvindhh931/Healthcare_Analyitics/blob/main/Visualizations/3.png) 
+![](https://github.com/Arvindhh931/Online-shoppers-intention/blob/main/visualizations/kmeans.png)  |  ![](https://github.com/Arvindhh931/Online-shoppers-intention/blob/main/visualizations/Agglomerative.png)
 
 | *-----*  |
 
 | *------*  |
 |:-------------------------:|
-![](https://github.com/Arvindhh931/Healthcare_Analyitics/blob/main/Visualizations/22.png)
+![](https://github.com/Arvindhh931/Online-shoppers-intention/blob/main/visualizations/Dendogram.png)
 
-| *-----*           |  *-----*
-:-------------------------:|:-------------------------:
-![](https://github.com/Arvindhh931/Healthcare_Analyitics/blob/main/Visualizations/21-1.png)  |  ![](https://github.com/Arvindhh931/Healthcare_Analyitics/blob/main/Visualizations/26.png) 
-
-
-## Missing value Imputation
+| *-----*  |
 
 | *------*  |
 |:-------------------------:|
-![](https://github.com/Arvindhh931/Healthcare_Analyitics-CAPSTONE-Project-/blob/main/Visualizations/1.png)
+![](https://github.com/Arvindhh931/Online-shoppers-intention/blob/main/visualizations/11.png)
+
+| *------*  |
+|:-------------------------:|
+![](https://github.com/Arvindhh931/Online-shoppers-intention/blob/main/visualizations/13.png)
+
+| *------*  |
+|:-------------------------:|
+![](https://github.com/Arvindhh931/Online-shoppers-intention/blob/main/visualizations/12.png)
+
+| *------*  |
+|:-------------------------:|
+![](https://github.com/Arvindhh931/Online-shoppers-intention/blob/main/visualizations/14.png)
+
+| *------*  |
+|:-------------------------:|
+![](https://github.com/Arvindhh931/Online-shoppers-intention/blob/main/visualizations/15.png)
+
+| *------*  |
+|:-------------------------:|
+![](https://github.com/Arvindhh931/Online-shoppers-intention/blob/main/visualizations/16.png)
+
+| *------*  |
+|:-------------------------:|
+![](https://github.com/Arvindhh931/Online-shoppers-intention/blob/main/visualizations/17.png)
+
+| *------*  |
+|:-------------------------:|
+![](https://github.com/Arvindhh931/Online-shoppers-intention/blob/main/visualizations/18.png)
+
+
+## Missing value Imputation
 
 
