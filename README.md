@@ -39,7 +39,7 @@ The dataset consists of feature vectors belonging to 12,330 sessions.The dataset
 
 | *PAIRPLOT of features with respect weather person visiting has been converted to Revenue (True/False)*  |
 |:-------------------------:|
-![](https://github.com/Arvindhh931/Online-shoppers-intention/blob/main/Visualizations/10.png)
+![](https://github.com/Arvindhh931/Online-shoppers-intention/blob/main/Visualizations/6.png)
 
 
 | *Dendogram of Agglomerative clustering*  |
