@@ -33,7 +33,7 @@ The dataset consists of feature vectors belonging to 12,330 sessions.The dataset
 |:-------------------------:|
 ![](https://github.com/Arvindhh931/Online-shoppers-intention/blob/main/Visualizations/2.png)
 
-|            |  
+|  *type-1 cluster*          |  *type-2 cluster*
 :-------------------------:|:-------------------------:
 ![](https://github.com/Arvindhh931/Online-shoppers-intention/blob/main/Visualizations/kmeans.png)  |  ![](https://github.com/Arvindhh931/Online-shoppers-intention/blob/main/Visualizations/Agglomerative.png)
 
@@ -42,11 +42,10 @@ The dataset consists of feature vectors belonging to 12,330 sessions.The dataset
 |:-------------------------:|
 ![](https://github.com/Arvindhh931/Online-shoppers-intention/blob/main/Visualizations/Dendogram.png)
 
-| *PAIRPLOT of features considered for clustering interms of 2 different clusters*  |
+| *PAIRPLOT of features representing 2 type of clusters*  |
 |:-------------------------:|
 ![](https://github.com/Arvindhh931/Online-shoppers-intention/blob/main/Visualizations/10.png)
 
-| *------*  |
 |:-------------------------:|
 ![](https://github.com/Arvindhh931/Online-shoppers-intention/blob/main/Visualizations/11.png)
 
