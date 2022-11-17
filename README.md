@@ -33,12 +33,7 @@ The dataset consists of feature vectors belonging to 12,330 sessions.The dataset
 |:-------------------------:|
 ![](https://github.com/Arvindhh931/Online-shoppers-intention/blob/main/Visualizations/2.png)
 
-| *Distribution of categories across Dataset*  |
-:-------------------------:|:-------------------------:
-![](https://github.com/Arvindhh931/Online-shoppers-intention/blob/main/Visualizations/3.png)  |  ![](https://github.com/Arvindhh931/Online-shoppers-intention/blob/main/Visualizations/4.png) 
-
-
-| *K-Means clustering*           |  *Hierarchical clustering (Agglomerative)*
+|            |  
 :-------------------------:|:-------------------------:
 ![](https://github.com/Arvindhh931/Online-shoppers-intention/blob/main/Visualizations/kmeans.png)  |  ![](https://github.com/Arvindhh931/Online-shoppers-intention/blob/main/Visualizations/Agglomerative.png)
 
