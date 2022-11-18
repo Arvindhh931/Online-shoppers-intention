@@ -1,6 +1,6 @@
 # Online shoppers intention to know weather Web Traffic is getting converted into Revenue generation or not
 
-## Problem statement
+## Problem statement:
 
 Based on given data of visitors browsing for online shopping, build different clusters to know whether person is only browsing and visiting multiples pages or also generating revenue for the shoppers as well.  Analysis and comparing the clusters formed with the existing Revenue Column.
 
@@ -23,7 +23,7 @@ The dataset consists of feature vectors belonging to 12,330 sessions.The dataset
 - The "Special Day" feature indicates the closeness of the site visiting time to a specific special day (e.g. Mother’s Day, Valentine's Day) in which the sessions are more likely to be finalized with transaction. The value of this attribute is determined by considering the dynamics of e-commerce such as the duration between the order date and delivery date. 
 
 
-## Exploratory Data Analysis (visulizations)
+## Exploratory Data Analysis (visulizations and Insights):
 
 | *Distribution of categories across Dataset*  |
 |:-------------------------:|
